@@ -3,7 +3,7 @@ name = "wasm-game-of-life"
 version = "0.1.0"
 authors = ["Tomasz Waszczyk <tomasz@waszczyk.com>"]
 edition = "2021"
-description = "Game of Live"
+description = "Game of Life"
 repository = ""
 license = "MIT"
 
