@@ -1,5 +1,8 @@
 <!-- <div align="center">
 
+https://rustwasm.github.io/docs/book/game-of-life/hello-world.html
+https://rustwasm.github.io/docs/wasm-bindgen/
+
   <h1><code>wasm-pack-template</code></h1>
 
   <strong>A template for kick starting a Rust and WebAssembly project using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
